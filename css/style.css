@@ -1,0 +1,26 @@
+.bg {
+    height: 550px;
+    background-color: #65cd00;
+}
+.underline {
+    display: inline-block;
+    width: 160px;
+    height: 2px;
+    background-color: #65CD00;
+    text-align: center;
+}
+.bg1 {
+    background:url(../images/dashboard-img.jpg);
+    background-size: cover;
+}
+.bg2 {
+    height: 255px;
+    background-color: #61C103; 
+}
+.underline1 {
+    display: inline-block;
+    width: 160px;
+    height: 2px;
+    background-color: white;
+    text-align: center;
+}
